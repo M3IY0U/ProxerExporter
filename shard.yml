@@ -1,0 +1,17 @@
+name: proxerexporter
+version: 0.1.0
+
+authors:
+  - M3IY0U <timo.nock@stud.h-da.de>
+
+targets:
+  proxerexporter:
+    main: src/proxerexporter.cr
+
+dependencies:
+  crystagiri:
+    github: madeindjs/crystagiri
+
+crystal: 1.2.1
+
+license: MIT
