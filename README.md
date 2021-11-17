@@ -1,27 +1,4 @@
-# proxerexporter
+# ProxerExporter
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
-## Contributing
-
-1. Fork it (<https://github.com/your-github-user/proxerexporter/fork>)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
-## Contributors
-
-- [M3IY0U](https://github.com/your-github-user) - creator and maintainer
+### Roughly exports a users *public* proxer anime list to xml, which can then be read by AniList or MAL.\
+Due to the MAL search being absolut dogshit, multiple seasons of shows will most likely be entered as the same, but progress and ratings should be exported correctly.
